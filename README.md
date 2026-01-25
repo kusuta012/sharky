@@ -30,10 +30,10 @@ This project is the most hacky vibes kinda I saw this in my youtube recommendati
 | Name | Qty | Price (INR) | Vendor | Link |
 |------|-----|--------------|--------|------|
 | TP4056 Module | 1 | 16 | QuartzComponents | [Link](https://quartzcomponents.com/products/tp4056-battery-charging-protection-module-type-c) |
-| NRF24L01+PA+LNA | 2 | 552 | QuartzComponents | [Link](https://quartzcomponents.com/products/nrf24l01-pa-lna-wireless-2-4ghz-rf-transceiver-module-with-sma-antenna) |
+| NRF24L01+PA+LNA | 2 | 276 | QuartzComponents | [Link](https://quartzcomponents.com/products/nrf24l01-pa-lna-wireless-2-4ghz-rf-transceiver-module-with-sma-antenna) |
 | ESP32-DEVKITV1 | 1 | 345 | QuartzComponents | [Link](https://quartzcomponents.com/products/esp32-30-pin-development-board-with-wi-fi-and-bluetooth) |
 | JST-XH 2.54mm 2P Connector | 1 | 3 | QuartzComponents | [Link](https://quartzcomponents.com/products/2-pin-jst-male-2-54-pitch) |
-| 100uF Electrolytic Capacitor | 2 | 12 | QuartzComponents | [Link](https://quartzcomponents.com/products/100uf-25v-radial-electrolytic-capacitor) |
+| 100uF Electrolytic Capacitor | 2 | 6 | QuartzComponents | [Link](https://quartzcomponents.com/products/100uf-25v-radial-electrolytic-capacitor) |
 | SPDT Slide Switch | 1 | 6 | QuartzComponents | [Link](https://quartzcomponents.com/products/dpdt-miniature-slide-switch) |
 | 3.7V 1200mAh Li-Po Battery | 1 | 228 | QuartzComponents | [Link](https://quartzcomponents.com/products/3-7v-1200mah-li-po-rechargeable-battery) |
 | M3 6mm Screw | 1 | 5 | QuartzComponents | [Link](https://quartzcomponents.com/products/phillips-head-m3-6mm-bolt-mounting-screw-for-pcb) |
