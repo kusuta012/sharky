@@ -1,9 +1,9 @@
 Name,Qty,Price (INR),Vendor,Link
 TP4056_Module,1,16,QuartzComponents,https://quartzcomponents.com/products/tp4056-battery-charging-protection-module-type-c
-NRF24L01+PA+LNA,2,552,QuartzComponents,https://quartzcomponents.com/products/nrf24l01-pa-lna-wireless-2-4ghz-rf-transceiver-module-with-sma-antenna
+NRF24L01+PA+LNA,2,276,QuartzComponents,https://quartzcomponents.com/products/nrf24l01-pa-lna-wireless-2-4ghz-rf-transceiver-module-with-sma-antenna
 ESP32-DEVKITV1,1,345,QuartzComponents,https://quartzcomponents.com/products/esp32-30-pin-development-board-with-wi-fi-and-bluetooth
 JST-XH 2.54mm 2P Connector,1,3,QuartzComponents,https://quartzcomponents.com/products/2-pin-jst-male-2-54-pitch
-100uF Electrolytic Capacitor,2,12,QuartzComponents,https://quartzcomponents.com/products/100uf-25v-radial-electrolytic-capacitor
+100uF Electrolytic Capacitor,2,6,QuartzComponents,https://quartzcomponents.com/products/100uf-25v-radial-electrolytic-capacitor
 SPDT Slide Switch,1,6,Quartz,https://quartzcomponents.com/products/dpdt-miniature-slide-switch
 3.7V 1200mAh Li-Po Battery,1,228,QuartzComponents,https://quartzcomponents.com/products/3-7v-1200mah-li-po-rechargeable-battery
 M3 6mm Screw,1,5,QuartzComponents,https://quartzcomponents.com/products/phillips-head-m3-6mm-bolt-mounting-screw-for-pcb
