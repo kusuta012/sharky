@@ -18,6 +18,7 @@ This project is the most hacky vibes kinda I saw this in my youtube recommendati
 
 # SEEEDSTUDIO CART 
 
+<img width="1797" height="700" alt="image" src="https://github.com/user-attachments/assets/4dc7d8d2-538c-4b00-a232-2f071e0a6fba" />
 <img width="1241" height="733" alt="image" src="https://github.com/user-attachments/assets/74e738c9-ef36-45cd-bfa3-41efd4657a64" />
 <img width="1641" height="845" alt="Screenshot 2026-01-22 235432" src="https://github.com/user-attachments/assets/f668d26c-0257-47b1-ba6b-26d54bce5b33" />
 
