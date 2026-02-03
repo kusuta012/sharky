@@ -13,8 +13,9 @@ This project is the most hacky vibes kinda I saw this in my youtube recommendati
 
 # PCB 
 
-<img width="1067" height="702" alt="Screenshot 2026-01-22 235903" src="https://github.com/user-attachments/assets/5374641c-8775-4bf5-a855-c388e77b6b61" />
-<img width="1296" height="610" alt="Screenshot 2026-01-22 235609" src="https://github.com/user-attachments/assets/d28689c2-6b18-43a5-bbce-2fed1cbbdde3" />
+<img width="1379" height="861" alt="image" src="https://github.com/user-attachments/assets/3665e12b-1664-431f-b477-6968334928d4" />
+<img width="1082" height="605" alt="image" src="https://github.com/user-attachments/assets/b850473a-5009-4a0c-8079-daf965db7b56" />
+
 
 # SEEEDSTUDIO CART 
 
@@ -25,6 +26,8 @@ This project is the most hacky vibes kinda I saw this in my youtube recommendati
 # QUARTZCOMPONENTS CART 
 
 <img width="557" height="684" alt="image" src="https://github.com/user-attachments/assets/58f57b83-f1d8-4334-ba89-b56f8e11a17a" />
+<img width="512" height="667" alt="image" src="https://github.com/user-attachments/assets/1e75d939-d575-4db3-be02-41cfac8a5238" />
+<img width="551" height="680" alt="image" src="https://github.com/user-attachments/assets/440d114a-a0e8-4993-be1c-bb94fb4be1c6" />
 
 # BOM 
 
