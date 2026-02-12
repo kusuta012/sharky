@@ -4,6 +4,12 @@ DISCLAIMER: This project is for educational and security research purposes only.
 
 This project is the most hacky vibes kinda I saw this in my youtube recommendation, its a 2.4ghz wifi and bluetooth jammer/deauther. It uses a esp32 and two nRF24L01+PA+LNA which makes it crazy at max power.
 
+# FLASHING INSTRUCTIONS
+
+- You need to cloen this repo, open the folder in the IDE.
+- PlatformIO will automatically detect the platformio.ini and download the RF24 library.
+- Connect your ESP32 and click the upload button in the bottom status bar.
+- After you are good to go, it will start working!!
 
 # SHOWCASE
 

@@ -146,6 +146,7 @@ void fastChannelSweep() {
         }
         radioModule2.setChannel(currentChannelModule2);
     }
+    delayMicroseconds(200);
 }
 
 void toggleStatusLED() {
