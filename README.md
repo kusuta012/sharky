@@ -45,6 +45,6 @@ This project is the most hacky vibes kinda I saw this in my youtube recommendati
 | JST-XH 2.54mm 2P Connector | 1 | 3 | QuartzComponents | [Link](https://quartzcomponents.com/products/2-pin-jst-male-2-54-pitch) |
 | 100uF Electrolytic Capacitor | 2 | 6 | QuartzComponents | [Link](https://quartzcomponents.com/products/100uf-25v-radial-electrolytic-capacitor) |
 | SPDT Slide Switch | 1 | 6 | QuartzComponents | [Link](https://quartzcomponents.com/products/dpdt-miniature-slide-switch) |
-| 3.7V 1200mAh Li-Po Battery | 1 | 228 | QuartzComponents | [Link](https://quartzcomponents.com/products/3-7v-1200mah-li-po-rechargeable-battery) |
+| 3.7V 1200mAh Li-Po Battery | 1 | 228 | Local Shop | Local Shop |
 | M3 6mm Screw | 1 | 5 | QuartzComponents | [Link](https://quartzcomponents.com/products/phillips-head-m3-6mm-bolt-mounting-screw-for-pcb) |
 | M3 12mm Screw | 1 | 8 | QuartzComponents | [Link](https://quartzcomponents.com/collections/all/products/phillips-head-m3-12mm-bolt-mounting-screw-for-pcb-pack-of-4) |
