@@ -4,6 +4,11 @@ DISCLAIMER: This project is for educational and security research purposes only.
 
 This project is the most hacky vibes kinda I saw this in my youtube recommendation, its a 2.4ghz wifi and bluetooth jammer/deauther. It uses a esp32 and two nRF24L01+PA+LNA which makes it crazy at max power.
 
+# NOTE !!! 🟥🟥🟥
+
+**For the 2nd reviewer pls note since the lipo battery is out of stock from the website , and i couldn't find anywhere else online , I am going to buy it locally , so it might differ with the requested funding ammount pls ping on slack for any confusion**
+
+
 # FLASHING INSTRUCTIONS
 
 - You need to cloen this repo, open the folder in the IDE.
@@ -31,9 +36,9 @@ This project is the most hacky vibes kinda I saw this in my youtube recommendati
 
 # QUARTZCOMPONENTS CART 
 
-<img width="557" height="684" alt="image" src="https://github.com/user-attachments/assets/58f57b83-f1d8-4334-ba89-b56f8e11a17a" />
-<img width="512" height="667" alt="image" src="https://github.com/user-attachments/assets/1e75d939-d575-4db3-be02-41cfac8a5238" />
-<img width="551" height="680" alt="image" src="https://github.com/user-attachments/assets/440d114a-a0e8-4993-be1c-bb94fb4be1c6" />
+<img width="470" height="668" alt="image" src="https://github.com/user-attachments/assets/b5da9255-fb47-417e-b1c8-635502f53d60" />
+<img width="489" height="675" alt="image" src="https://github.com/user-attachments/assets/c615ae6e-2527-40db-b5c6-f2ebc0243cce" />
+
 
 # BOM 
 
